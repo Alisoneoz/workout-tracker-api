@@ -29,4 +29,3 @@ router.patch("/:id", updateWorkout);
 
 //exporting the module
 module.exports= router; //different syntax for me... I would have done it like module.exports= {router:router} 
-//pero vamo a ver como se va haciendo a medida que se añadan mas routes
